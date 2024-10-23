@@ -2,6 +2,10 @@
 
 This project is a web scraping tool built with Scrapy that extracts and visualizes subdomain relationships from a specified starting URL in a 3D graph format using NetworkX and Matplotlib. It helps to understand the structure of a domain's subdomains by displaying how they link to each other.
 
+# Example: 3D Google Subdomain Representation
+
+![Alt text](3D_Google.png)
+
 ## Features
 
 - Scrapes web pages for links within the same domain.
