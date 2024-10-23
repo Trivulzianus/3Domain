@@ -58,16 +58,7 @@ The visualize_subdomains method uses Matplotlib to create a 3D scatter plot of s
 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
+
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-markdown
-
-
-### Instructions:
-- Replace `your_spider_file.py` with the actual filename of your spider code.
-- Update the GitHub repository link and your username accordingly.
-- You can also add any other sections or details specific to your project as needed.
-
-
+This project is licensed under the MIT License - see the LICENSE file for deta
