@@ -24,14 +24,13 @@ This project is a web scraping tool built with Scrapy that extracts and visualiz
 
 To run the spider, use the following command in your terminal:
 
-bash
-
+```bash
 scrapy runspider your_spider_file.py -a start_url="http://example.com"
+```
 
 Replace your_spider_file.py with the filename where your spider code is located and http://example.com with the starting URL you want to scrape.
-Example
 
-Clone the repository (if applicable):
+Clone the repository:
 
 ```bash
 git clone https://github.com/your_username/your_repository.git
