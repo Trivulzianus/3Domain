@@ -42,7 +42,7 @@ scrapy runspider domain_spider.py -a start_url="http://example.com"
 
 After the scraping is complete, a 3D visualization will be displayed showing the subdomain relationships.
 
-Code Overview
+## Code Overview
 DomainSpider Class
 
     name: The name of the spider.
@@ -52,13 +52,14 @@ DomainSpider Class
     extract_links: Extracts links from the current page and records subdomain relationships.
     visualize_subdomains: Creates a 3D visualization of the subdomain relationships.
 
-3D Visualization
+## 3D Visualization
 
 The visualize_subdomains method uses Matplotlib to create a 3D scatter plot of subdomains. It adds hover functionality to display node names dynamically.
-Contributing
+
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for deta
